@@ -8,7 +8,7 @@ const AlertInfo = () => {
                 <img
                     className={styles.localOfferIcon}
                     alt=""
-                    src="/local-offer.svg"
+                    src="/japan-test/local-offer.svg"
                 />
                 <div className={styles.div15}>
                     シーズン限定メニュー
