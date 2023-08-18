@@ -62,12 +62,12 @@ const MediaCard = ({ hasAlertInfoBox, hasReleaseDateCard }: { hasAlertInfoBox: b
                     <img
                         className={styles.maskedIcon1}
                         alt=""
-                        src="/masked-icon1.svg"
+                        src="/japan-test/masked-icon1.svg"
                     />
                     <img
                         className={styles.menufilledIcon}
                         alt=""
-                        src="/icon11.svg"
+                        src="/japan-test/icon11.svg"
                     />
                     <div className={styles.button8}>比較</div>
                 </div>
@@ -79,7 +79,7 @@ const MediaCard = ({ hasAlertInfoBox, hasReleaseDateCard }: { hasAlertInfoBox: b
                             <img
                                 className={styles.frameChild}
                                 alt=""
-                                src="/frame-366@2x.png"
+                                src="/japan-test/frame-366@2x.png"
                             />
                             <div className={styles.div10}>主なユーザー属性</div>
                             <div className={styles.frameParent19}>
@@ -146,7 +146,7 @@ const MediaCard = ({ hasAlertInfoBox, hasReleaseDateCard }: { hasAlertInfoBox: b
                                         <img
                                             className={styles.maskedicon}
                                             alt=""
-                                            src="/avatar9.svg"
+                                            src="/japan-test/avatar9.svg"
                                         />
                                     </div>
                                     <div className={styles.label8}>
@@ -156,7 +156,7 @@ const MediaCard = ({ hasAlertInfoBox, hasReleaseDateCard }: { hasAlertInfoBox: b
                                         <img
                                             className={styles.icon19}
                                             alt=""
-                                            src="/-icon1.svg"
+                                            src="/japan-test/-icon1.svg"
                                         />
                                     </div>
                                 </div>
@@ -211,7 +211,7 @@ const MediaCard = ({ hasAlertInfoBox, hasReleaseDateCard }: { hasAlertInfoBox: b
                             <img
                                 className={styles.imageIcon}
                                 alt=""
-                                src="/image@2x.png"
+                                src="/japan-test/image@2x.png"
                             />
                             <div className={styles.frame4}>
                                 <div className={styles.div16}>公開日 : 2022/12/20</div>
@@ -228,7 +228,7 @@ const MediaCard = ({ hasAlertInfoBox, hasReleaseDateCard }: { hasAlertInfoBox: b
                         <img
                             className={styles.menufilledIcon}
                             alt=""
-                            src="/icon12.svg"
+                            src="/japan-test/icon12.svg"
                         />
                         <div className={styles.button5}>お気に入り</div>
                         <div className={styles.unstyledbuttonChild} />

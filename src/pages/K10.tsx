@@ -16,7 +16,7 @@ function HomePage() {
           <MedialListForm />
           <div className={styles.group}>
             <div className={styles.div9}>絞り込み検索</div>
-            <img className={styles.menufilledIcon} alt="" src="/icon10.svg" />
+            <img className={styles.menufilledIcon} alt="" src="/japan-test/icon10.svg" />
           </div>
           <button className={styles.buttonoutlined7}>
             <div className={styles.unstyledbutton5}>
@@ -25,7 +25,7 @@ function HomePage() {
                 <img
                   className={styles.maskedicon}
                   alt=""
-                  src="/masked-icon.svg"
+                  src="/japan-test/masked-icon.svg"
                 />
               </button>
             </div>

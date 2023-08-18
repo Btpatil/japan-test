@@ -20,7 +20,7 @@ export const NavigationItem = ({ data, hasMenuFilledIcon = true }: { data: dataT
                 <img
                     className={styles.menufilledIcon}
                     alt=""
-                    src="/icon1.svg"
+                    src="/japan-test/icon1.svg"
                 />
             }
         </nav>

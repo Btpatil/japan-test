@@ -21,7 +21,7 @@ const OutlinedButtonContainer = ({ textValue }: { textValue: string }) => {
                         <img
                             className={styles.maskedicon}
                             alt=""
-                            src="/maskedicon.svg" />
+                            src="/japan-test/maskedicon.svg" />
                         <div className={styles.button}>{textValue}</div>
                     </div>
                 </div>

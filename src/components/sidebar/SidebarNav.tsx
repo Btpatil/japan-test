@@ -16,13 +16,13 @@ export const SidebarNav = () => {
                 <div className={styles.unstylediconbutton}>
                     <img
                         className={styles.menufilledIcon}
-                        alt=""
-                        src="/menufilled.svg"
+                        alt="menu"
+                        src="/japan-test/menufilled.svg"
                     />
                 </div>
             </div>
             <div className={styles.image1Wrapper}>
-                <img className={styles.image1Icon} alt="" src="/image-1@2x.png" />
+                <img className={styles.image1Icon} alt="" src="/japan-test/image-1@2x.png" />
             </div>
             <div className={styles.frameParent}>
                 <div className={styles.frameGroup}>
@@ -36,7 +36,7 @@ export const SidebarNav = () => {
                         }
                     </div>
 
-                    <NavigationItem data={{ icon: "/icon9.svg", name: "ログアウト" }} hasMenuFilledIcon={false} />
+                    <NavigationItem data={{ icon: "/japan-test/icon9.svg", name: "ログアウト" }} hasMenuFilledIcon={false} />
                 </div>
                 <div className={styles.parent}>
                     <div className={styles.description}>広告主</div>
